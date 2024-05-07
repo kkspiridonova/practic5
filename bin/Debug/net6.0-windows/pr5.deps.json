@@ -6,6 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
+      "pr5/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.77",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "pr5.dll": {}
+        }
+      },
       "Microsoft.Xaml.Behaviors.Wpf/1.1.77": {
         "runtime": {
           "lib/net6.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
@@ -25,6 +34,11 @@
     }
   },
   "libraries": {
+    "pr5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Microsoft.Xaml.Behaviors.Wpf/1.1.77": {
       "type": "package",
       "serviceable": true,

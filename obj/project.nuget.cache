@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7Odi2ykwdWS431mQgoc2TLCpSG/uj5Tpih41u7iiZeVDxEwdZFDS3kx98FbPWVF9M+XnG04U0nWzoM0Qik1qLg==",
+  "dgSpecHash": "9Mw+BwBC+IAAoKuMDISXsoCoW/Cnfl9y+2lC+TMykS9gk8yyqnHKe3LUA5wvW732Z4soZ34AHuwIGezwKMzkCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\pr5\\pr5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

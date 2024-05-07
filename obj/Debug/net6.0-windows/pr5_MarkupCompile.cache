@@ -1,5 +1,5 @@
 ﻿pr5
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\User\source\repos\pr5\App.xaml
 2907883413
 
-11-1639753966
+9-1008168540
 1961502674946
 View\Dialog.xaml;View\MainWindow.xaml;
 

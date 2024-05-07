@@ -1,4 +1,5 @@
-﻿using System;
+﻿using pr5.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,9 @@ namespace pr5
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new MainViewModel();
         }
+        private void CanExecute(object sender, CanExecuteRoutedEventArgs e) => e.CanExecute = true;
+        private void Hide(object sender, ExecutedRoutedEventArgs e) => SystemCommands.MinimizeWindow(this);
     }
 }
