@@ -18,9 +18,10 @@ C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.GeneratedMSBuildEdit
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.AssemblyInfo.cs
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.csproj.CopyComplete
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.dll
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\refint\pr5.dll
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.pdb
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.genruntimeconfig.cache
 C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\ref\pr5.dll
+C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.sourcelink.json
+C:\Users\User\source\repos\pr5\obj\Debug\net6.0-windows\pr5.csproj.Up2Date
